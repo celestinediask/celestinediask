@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @celestinediask
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on my public website clone of youtube and notion
+- 🌱 I’m currently learning go lang
+- 💞️ I’m looking to create a service website
 - 📫 You can reach via email: celestinediask@gmail.com
 
 <!---
