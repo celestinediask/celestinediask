@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @celestinediask
-- 👀 I’m interested in webservice
-- 🌱 I’m currently learning go lang
-- 💞️ I’m looking to create a web service
-- 📫 You can reach via email: celestinediask@gmail.com
+```
+$echo Hi  
+Hi  
+
+$whoami  
+celestinediask
+```
 
 <!---
 celestinediask/celestinediask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
