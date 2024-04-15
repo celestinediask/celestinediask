@@ -1,10 +1,3 @@
-```
-$echo Hi  
-Hi  
-
-$whoami  
-celestinediask
-```
 <h1 align="center">Hi 👋, I'm Celestian Dias</h1>
 <h3 align="center">A passionate Go-lang developer</h3>
 
