@@ -5,8 +5,8 @@ Hi
 $whoami  
 celestinediask
 ```
-<h1 align="center">Hi 👋, I'm Shivaraj S Shanthaiah</h1>
-<h3 align="center">A passionate Go-lang developer from India</h3>
+<h1 align="center">Hi 👋, I'm Celestian Dias</h1>
+<h3 align="center">A passionate Go-lang developer</h3>
 
 
 <!---
